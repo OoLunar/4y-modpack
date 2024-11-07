@@ -1,0 +1,7 @@
+name = "Silence Mobs"
+filename = "silence mobs v1.2.3 (MC 1.21-1.21.3).zip"
+
+[download]
+url = "https://github.com/OoLunar/4y-modpack/blob/master/res/silence%20mobs%20v1.2.3%20(MC%201.21-1.21.3).zip"
+hash-format = "sha256"
+hash = "877fe032ff000b87867c26d26c481cedcb7ecf917f9d7cb3dd0e83dc75c559f3"
