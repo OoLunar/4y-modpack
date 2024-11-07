@@ -1,0 +1,13 @@
+name = "Chest Logs"
+filename = "chest-logs-1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RHbU6ZXS/versions/JrN1laFQ/chest-logs-1.4.jar"
+hash-format = "sha1"
+hash = "f382d4c704eef7c8969c9c13ea56ba88aeb8d84b"
+
+[update]
+[update.modrinth]
+mod-id = "RHbU6ZXS"
+version = "JrN1laFQ"

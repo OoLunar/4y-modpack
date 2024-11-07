@@ -1,0 +1,13 @@
+name = "Rabbit Pathfinding Fixed"
+filename = "rabbit-pathfinding-fix-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MCMPNRD8/versions/VcqtC8c0/rabbit-pathfinding-fix-1.0.1.jar"
+hash-format = "sha1"
+hash = "6f9965c1706ba4a4cea742367da9bb2e063edb46"
+
+[update]
+[update.modrinth]
+mod-id = "MCMPNRD8"
+version = "VcqtC8c0"
