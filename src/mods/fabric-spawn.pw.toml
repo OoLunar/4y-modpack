@@ -1,0 +1,13 @@
+name = "Fabric Spawn"
+filename = "fabric-spawn-1.0.1+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y4uVO3W7/versions/DttshyKH/fabric-spawn-1.0.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "ba6c39731f16565d16d97f30ba3f866f804ad769"
+
+[update]
+[update.modrinth]
+mod-id = "Y4uVO3W7"
+version = "DttshyKH"

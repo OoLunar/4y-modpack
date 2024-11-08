@@ -1,0 +1,13 @@
+name = "PetProtect"
+filename = "petprotect-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LeqaEyxB/versions/cDMOPXk9/petprotect-1.1.jar"
+hash-format = "sha1"
+hash = "3b9ae5cf88aaa68eb64c6f77a3983cbc4648e8d4"
+
+[update]
+[update.modrinth]
+mod-id = "LeqaEyxB"
+version = "cDMOPXk9"

@@ -1,33 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/anti-creeper-grief.pw.toml"
-hash = "f46d658c84a4c0a0224879f93eae900497561bd13512409ba3b4b506bc5a7049"
-metafile = true
-
-[[files]]
-file = "datapacks/anti-enderman-grief.pw.toml"
-hash = "58e7e49f33a35450cf6075e79ca0b32c3eddca500113fea685a6a68ff750f860"
-metafile = true
-
-[[files]]
-file = "datapacks/anti-ghast-grief.pw.toml"
-hash = "57c3298f126a4365dd6ac27c712c702b18879f03cc921acf8fbaacb39e60e32d"
-metafile = true
-
-[[files]]
 file = "datapacks/armor-statues.pw.toml"
 hash = "980174b8fc50d71db70f22f06d24f3febf1293e2f37f48bc9e2db92c042dde3f"
-metafile = true
-
-[[files]]
-file = "datapacks/cauldron-concrete.pw.toml"
-hash = "eada2914bbc69b8d066ea9e9e74ab689342a9588d1a322f70b35f44ef5cdbfc4"
-metafile = true
-
-[[files]]
-file = "datapacks/cauldron-mud.pw.toml"
-hash = "ee4ab5fdba839f67b9d2949175f743922c996b2d6e9c7a208c052826ea4a2491"
 metafile = true
 
 [[files]]
@@ -43,11 +18,6 @@ metafile = true
 [[files]]
 file = "datapacks/ender-chest-always-drops.pw.toml"
 hash = "103163760ead7b1430f8eb9fbb745012454fa1a9eed758325f7bc80058b1b6ca"
-metafile = true
-
-[[files]]
-file = "datapacks/kill-empty-boats.pw.toml"
-hash = "dac398c443de0b74d81a2b401e989bc74502139cf016a91629c39efc5376ded1"
 metafile = true
 
 [[files]]
@@ -91,6 +61,16 @@ hash = "61527e2f37ef0edb8e91414c10d23b59dc3e6e5927801d1f9d4d4c3deeb35a44"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "fa259102881f2f27df708233a5ed9fa0ab1a3d11006cc2c72a72de1a2b35db72"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "63d410353fd1c76ac293cf00299d1b14a0dc3ec777c5e29a16f7eaad60557091"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -116,6 +96,11 @@ hash = "f318c9fe77057e9bfce4871a297a973d1b5d5ec493f311e7cb7937937ad0c95f"
 metafile = true
 
 [[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "b60cd930ded61e67033b8a1a61ce687a5f52c8a2b4937282192322d0f941620f"
+metafile = true
+
+[[files]]
 file = "mods/death-backup.pw.toml"
 hash = "85282b31f3a98c66be09e9af2730202ad786b30e6049ccb5c5d49c8c538f2e3d"
 metafile = true
@@ -136,6 +121,16 @@ hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "142ea053dc355fc9c8fee8d46cb702a7b076b78206c88c632e5d5355e76b1250"
+metafile = true
+
+[[files]]
+file = "mods/fabric-spawn.pw.toml"
+hash = "8b8047ba77a3a2f60df74da5659a8c73d68856f915573a056d4b3901943da490"
+metafile = true
+
+[[files]]
 file = "mods/fabricproxy-lite.pw.toml"
 hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
 metafile = true
@@ -143,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
+metafile = true
+
+[[files]]
+file = "mods/flan.pw.toml"
+hash = "e6426cedf37576cca04fdf5e2173cc0f4471b7180eb8606c284560ce422af8b0"
 metafile = true
 
 [[files]]
@@ -156,6 +156,11 @@ hash = "1068033be1b0aeb580da1c283530e065bd4e708b2879f1862d5f4d37de271d93"
 metafile = true
 
 [[files]]
+file = "mods/frostbytes-skip-server-movement-check.pw.toml"
+hash = "3fff2caf86a3d1400a507ef5d01069eec44d6726710ef3611b11f9af4e958bdc"
+metafile = true
+
+[[files]]
 file = "mods/fsit.pw.toml"
 hash = "b1b9fdee0973a904281529d973963847d4414fc71f763a74787a739c3a0fb236"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/geyser.pw.toml"
 hash = "8329cdb63edebab6d5de10a64b5c1f900938c048e5986abec58abbfb2cb99733"
+metafile = true
+
+[[files]]
+file = "mods/granular-gamerules.pw.toml"
+hash = "90c905192d436f09fe4a1cce3bfac3e579c99a237bb8e4d13de8eb4c6dddbcdc"
 metafile = true
 
 [[files]]
@@ -183,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/invview.pw.toml"
 hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+metafile = true
+
+[[files]]
+file = "mods/jail-logic.pw.toml"
+hash = "837a6a962cddb4389bb33eb19cad46a94b3143c7ccb0dcf12ba3c5c29a759732"
 metafile = true
 
 [[files]]
@@ -226,6 +241,21 @@ hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
 metafile = true
 
 [[files]]
+file = "mods/offline-player-teleport.pw.toml"
+hash = "947a73f9da83d1e207d75cccc46ee5e3ca5348a098298422ecfb0f16e346ecf5"
+metafile = true
+
+[[files]]
+file = "mods/ordered-player-list.pw.toml"
+hash = "7d5f92878de2532d4defddea146f7245ed3f407c07203cbefaa7abed0451152d"
+metafile = true
+
+[[files]]
+file = "mods/petprotect.pw.toml"
+hash = "23ec3f85d7041b1f343b1e9ae34352eddcd8677a025e4d1f247a0d1bab9f012e"
+metafile = true
+
+[[files]]
 file = "mods/player-pronouns.pw.toml"
 hash = "419d8d3c7c4bb9485d69b107ec3e0858bb4d2137c7268ae4edd6490deacca5f4"
 metafile = true
@@ -256,8 +286,18 @@ hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
 metafile = true
 
 [[files]]
+file = "mods/respond-command.pw.toml"
+hash = "79c8ba67c643eff2ee4145e04fc2ab88624f656a6f4b0171e6cd33710adeba71"
+metafile = true
+
+[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "f7f0f99e4e0fb3db6deb9ff246527ad1de08d175b7d500cdcb7a0ba0dfa0e856"
+metafile = true
+
+[[files]]
+file = "mods/seedguard.pw.toml"
+hash = "488de4e605e34cecbc51f466a6b1abf02ccc8485f59beeecca2e6bbf805fad57"
 metafile = true
 
 [[files]]
@@ -316,6 +356,11 @@ hash = "d4b0cf061e4ff370e5bd22d395a437af7cea6cb09f71cc4fbf9337dc5432220a"
 metafile = true
 
 [[files]]
+file = "mods/vanish.pw.toml"
+hash = "f578bf7cc4d3d7f77c838a8fee634ba54c37b513c4b54e984c88a8cb5b3bdb3a"
+metafile = true
+
+[[files]]
 file = "mods/viafabric.pw.toml"
 hash = "5dac8cf2bce09b9f93fd3c0291af41e234c32a1495e2b44f1593fce2ef484d1c"
 metafile = true
@@ -323,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/viaversion.pw.toml"
 hash = "21bb1f2a923815b9b158c04647c28d53f20de6b77ee7245b8a0da8c554fd5831"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "92ead4022d369f7b4344750622a64c3b8b3f84466c314c55a40e12b523db612b"
 metafile = true
 
 [[files]]
@@ -338,4 +388,14 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "4fd0d40dfda1403970491c7d33a748477f50613fd138b0c5c1fcd87c5ed6f804"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b18ddc19b0a70f0ab2b4e652210d887d0c28b5192ea249cb0e8d0115373d8650"
 metafile = true

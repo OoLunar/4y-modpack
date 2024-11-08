@@ -1,0 +1,13 @@
+name = "Jail Logic"
+filename = "jail-mod-1.5-1.21-stable.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eVzHw6dU/versions/17I0EoeO/jail-mod-1.5-1.21-stable.jar"
+hash-format = "sha1"
+hash = "14c76da33cc63d34f5364d4280919297288fc520"
+
+[update]
+[update.modrinth]
+mod-id = "eVzHw6dU"
+version = "17I0EoeO"

@@ -1,7 +1,0 @@
-name = "Cauldron Concrete"
-filename = "cauldron concrete v3.0.2 (MC 1.21-1.21.3).zip"
-
-[download]
-url = "https://github.com/OoLunar/4y-modpack/raw/refs/heads/master/res/cauldron%20concrete%20v3.0.2%20(MC%201.21-1.21.3).zip"
-hash-format = "sha256"
-hash = "281bc6008a37e432f64d88d10e033a0461a7570a8f4ba2725ff4de2a651bdec9"

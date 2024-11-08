@@ -1,0 +1,13 @@
+name = "Ordered Player List"
+filename = "orderedplayerlist-0.1.4+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IX99VLW9/versions/RlemufzC/orderedplayerlist-0.1.4%2B1.21.jar"
+hash-format = "sha1"
+hash = "cde353daf55388efcab1f8d664260c2650534543"
+
+[update]
+[update.modrinth]
+mod-id = "IX99VLW9"
+version = "RlemufzC"
