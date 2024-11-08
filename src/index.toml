@@ -76,6 +76,11 @@ hash = "2894345148b3f5e055d76c385042aae7915d2aae30c4bdbce24e0668a73d2251"
 metafile = true
 
 [[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "1c8c86e005e1474a0cc76966204b0910f61109200561e77d54a1ef280506fe77"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "ac3444154dfbd155eaa377eb00fdab860d7436249f73a9ef29acf7d4fb3c38d7"
 metafile = true
@@ -116,11 +121,6 @@ hash = "ed5ec4c39e3955cd9916e44b3b9c65160941b6aaac81b91803fef4d08ecdf709"
 metafile = true
 
 [[files]]
-file = "mods/crashexploitfixer.pw.toml"
-hash = "8fef74cc233bff9ee4274495bd75faa82d3b3ac985af03c132201b5776c3959f"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "f318c9fe77057e9bfce4871a297a973d1b5d5ec493f311e7cb7937937ad0c95f"
 metafile = true
@@ -128,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/death-backup.pw.toml"
 hash = "85282b31f3a98c66be09e9af2730202ad786b30e6049ccb5c5d49c8c538f2e3d"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "2c707336883229e55c6a4278e9a37ccba55d6d85f34fa7c90221807b6dce9644"
 metafile = true
 
 [[files]]
@@ -191,8 +196,18 @@ hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "fd902023333e13ae8e97a2a85d8732d6e60bc5479274d2308193c469d995fb84"
+metafile = true
+
+[[files]]
 file = "mods/mc-258859.pw.toml"
 hash = "2ddd132e77845aaff3dd2790a9a74f94d4265956195dffb8cab62b90ebca2bec"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "daebdcc242bb20b35bee1d9d41707dfe7bf189663eccec6f5da06689473ca637"
 metafile = true
 
 [[files]]
@@ -211,6 +226,11 @@ hash = "ef285469b83ef196f111d829b8521815a66674cc1d8afb4b1afedbb996b10841"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
+metafile = true
+
+[[files]]
 file = "mods/player-pronouns.pw.toml"
 hash = "419d8d3c7c4bb9485d69b107ec3e0858bb4d2137c7268ae4edd6490deacca5f4"
 metafile = true
@@ -226,8 +246,18 @@ hash = "9dbaa3666fef1b89395c5462e31ac3525ebe377afb8d6645d729cec2662092c3"
 metafile = true
 
 [[files]]
+file = "mods/quickbench.pw.toml"
+hash = "0a531dfaea49c08e68352773940cbe5775fc1403ea8f0a772b231a3a718748e9"
+metafile = true
+
+[[files]]
 file = "mods/rabbit-pathfinding-fix.pw.toml"
 hash = "e320c4300282b982d4594200b631306e8e13be9a88fa8b36b4c62b498af3c574"
+metafile = true
+
+[[files]]
+file = "mods/railoptimization.pw.toml"
+hash = "17348559d0deb79189d92e2cd8d4090cd80cdb51a48a86b7049936cd5e81327d"
 metafile = true
 
 [[files]]
@@ -293,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "a812b28139677f41b0e351bffa766dca187902d326c2921ebd237ea19075400f"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "5909f21a6e8c5ffc7a935fa6a67cf771190ba82ac96dd11b23fd0f6ffb7b3218"
 metafile = true
 
 [[files]]
