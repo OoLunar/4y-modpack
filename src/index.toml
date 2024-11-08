@@ -266,11 +266,6 @@ hash = "f7f0f99e4e0fb3db6deb9ff246527ad1de08d175b7d500cdcb7a0ba0dfa0e856"
 metafile = true
 
 [[files]]
-file = "mods/sepals.pw.toml"
-hash = "25ff1f617c109978c0effdfd3556a9ed789c433a640d787a64f8c2fb9c33445a"
-metafile = true
-
-[[files]]
 file = "mods/server-snapshot-performance-backports.pw.toml"
 hash = "e5074ec0687656b0717dc5e799d1cdb593fe480e7b5eef03f5674b6e6a071ea3"
 metafile = true
@@ -342,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "41ca6fc9929ae83cd41518ab017081598d73c2ed3c6bcce01f27c00f917caab1"
+hash = "42aa3bb38e9a9077c5f1c6e1be9f000c16ed74f79ea9323235763d33e8965243"
 metafile = true
 
 [[files]]
