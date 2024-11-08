@@ -216,11 +216,6 @@ hash = "daebdcc242bb20b35bee1d9d41707dfe7bf189663eccec6f5da06689473ca637"
 metafile = true
 
 [[files]]
-file = "mods/nemos-blooming-blossom.pw.toml"
-hash = "187c0acd4745863da4c9ed9087a808d7d7c011fb62bb5c4a03bb927de0385048"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "70f393d5dd9f701c8333972e47dda5c1ee1c4a6753f8768dbc6dc99c97ab1795"
 metafile = true
