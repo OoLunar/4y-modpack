@@ -316,6 +316,11 @@ hash = "d4b0cf061e4ff370e5bd22d395a437af7cea6cb09f71cc4fbf9337dc5432220a"
 metafile = true
 
 [[files]]
+file = "mods/viaversion.pw.toml"
+hash = "21bb1f2a923815b9b158c04647c28d53f20de6b77ee7245b8a0da8c554fd5831"
+metafile = true
+
+[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "a812b28139677f41b0e351bffa766dca187902d326c2921ebd237ea19075400f"
 metafile = true
