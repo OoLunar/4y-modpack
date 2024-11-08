@@ -261,11 +261,6 @@ hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
-file = "mods/spawnproof-villagers.pw.toml"
-hash = "6f7a3c03ba67576391cefa29c66d566035d05d71b5ddbe2312109389b2687364"
-metafile = true
-
-[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
