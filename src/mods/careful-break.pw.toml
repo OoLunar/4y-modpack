@@ -1,0 +1,13 @@
+name = "Careful Break"
+filename = "careful-break-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/g4vUZNRA/versions/tAaQTrhY/careful-break-1.2.0.jar"
+hash-format = "sha1"
+hash = "cd8411c09917ec31a3dc59511f443ed6641d403a"
+
+[update]
+[update.modrinth]
+mod-id = "g4vUZNRA"
+version = "tAaQTrhY"

@@ -91,6 +91,11 @@ hash = "61527e2f37ef0edb8e91414c10d23b59dc3e6e5927801d1f9d4d4c3deeb35a44"
 metafile = true
 
 [[files]]
+file = "mods/careful-break.pw.toml"
+hash = "8133d3cb05497cda284670e29fd4872eda2f39abab0ea677572e88b1d07d9f44"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
 hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
@@ -266,6 +276,21 @@ hash = "f7f0f99e4e0fb3db6deb9ff246527ad1de08d175b7d500cdcb7a0ba0dfa0e856"
 metafile = true
 
 [[files]]
+file = "mods/sepals.pw.toml"
+hash = "25ff1f617c109978c0effdfd3556a9ed789c433a640d787a64f8c2fb9c33445a"
+metafile = true
+
+[[files]]
+file = "mods/server-snapshot-performance-backports.pw.toml"
+hash = "e5074ec0687656b0717dc5e799d1cdb593fe480e7b5eef03f5674b6e6a071ea3"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "aca4ca6aeb68ca0e811a2738c3c8af51c992448364d0fa0da4341177d906b033"
+metafile = true
+
+[[files]]
 file = "mods/sessility.pw.toml"
 hash = "152da05a4418fa42efd27419ad5a2e4c95ec036d11b88f451d73c6704230c522"
 metafile = true
@@ -276,8 +301,18 @@ hash = "11d49c7873f93ef76006572df8c2bd929683fc03dd2da59531872b15b6a5d93b"
 metafile = true
 
 [[files]]
+file = "mods/sneaky-server.pw.toml"
+hash = "b2bc503d86a20c9104cbdab6810e6610f69aa0354009d0a8b6492361007f6fcf"
+metafile = true
+
+[[files]]
 file = "mods/snowballs-freeze-mobs.pw.toml"
 hash = "fe0985f1906bdbe1485af475be6f1ef56b47d847f71aabb8b42abcd16bd1452b"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
@@ -313,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "d4b0cf061e4ff370e5bd22d395a437af7cea6cb09f71cc4fbf9337dc5432220a"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "41ca6fc9929ae83cd41518ab017081598d73c2ed3c6bcce01f27c00f917caab1"
 metafile = true
 
 [[files]]

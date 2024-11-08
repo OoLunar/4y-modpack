@@ -1,0 +1,13 @@
+name = "Server Snapshot Performance Backports"
+filename = "server-snapshot-performance-backports-1.21.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/r2KV1Oja/versions/EC0039hw/server-snapshot-performance-backports-1.21.1.2.jar"
+hash-format = "sha1"
+hash = "e7b8f6705803a58b73fb1311fe5970a17e6d619b"
+
+[update]
+[update.modrinth]
+mod-id = "r2KV1Oja"
+version = "EC0039hw"
