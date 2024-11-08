@@ -1,7 +1,0 @@
-name = "Spectator Night Vision"
-filename = "spectator night vision v1.1.9 (MC 1.21-1.21.3).zip"
-
-[download]
-url = "https://github.com/OoLunar/4y-modpack/raw/refs/heads/master/res/spectator%20night%20vision%20v1.1.9%20(MC%201.21-1.21.3).zip"
-hash-format = "sha256"
-hash = "2436a410b03adfbcb9f10aaaeb7220abb27023276d80b578bb44732062974480"

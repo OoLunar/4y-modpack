@@ -1,7 +1,0 @@
-name = "XP Bottling"
-filename = "xp bottling v1.1.10 (MC 1.21-1.21.3).zip"
-
-[download]
-url = "https://github.com/OoLunar/4y-modpack/raw/refs/heads/master/res/xp%20bottling%20v1.1.10%20(MC%201.21-1.21.3).zip"
-hash-format = "sha256"
-hash = "3a30e9c6e011180858f3845adf2cf60129547ecc40878af63ae06200f1c8ed24"

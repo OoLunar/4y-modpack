@@ -1,7 +1,0 @@
-name = "Unlock All Recipes"
-filename = "unlock all recipes v2.0.10 (MC 1.21-1.21.3).zip"
-
-[download]
-url = "https://github.com/OoLunar/4y-modpack/raw/refs/heads/master/res/unlock%20all%20recipes%20v2.0.10%20(MC%201.21-1.21.3).zip"
-hash-format = "sha256"
-hash = "53f60f27e9305715f3c022d0f28fb5e58500da736c0903ff0b905770a2027910"

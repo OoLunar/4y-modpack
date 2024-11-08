@@ -1,51 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/armor-statues.pw.toml"
-hash = "980174b8fc50d71db70f22f06d24f3febf1293e2f37f48bc9e2db92c042dde3f"
-metafile = true
-
-[[files]]
-file = "datapacks/confetti-creepers.pw.toml"
-hash = "976de08f527b9f338656569bb636172ca49be15098d3aad06902e2d3c40f671b"
-metafile = true
-
-[[files]]
-file = "datapacks/double-shulker-shells.pw.toml"
-hash = "68cfa453a4078a70cc6497fd466d8beeea2532a0d76d20a8ae0f5db7981012f2"
-metafile = true
-
-[[files]]
-file = "datapacks/ender-chest-always-drops.pw.toml"
-hash = "103163760ead7b1430f8eb9fbb745012454fa1a9eed758325f7bc80058b1b6ca"
-metafile = true
-
-[[files]]
-file = "datapacks/silence-mobs.pw.toml"
-hash = "175aae6ed55ae07b202de86c48430b2d98f148f50e2f8d300e85cf389bab3336"
-metafile = true
-
-[[files]]
-file = "datapacks/spectator-conduit-power.pw.toml"
-hash = "b1e14d233fd7f2b641872e0bb96ede4ad9593dbdf4689a15b91c6715d2df9298"
-metafile = true
-
-[[files]]
-file = "datapacks/spectator-night-vision.pw.toml"
-hash = "ce615cc72b40ecf275e0a45dbc0e6c52024e64c428c5df82de8202acb0974237"
-metafile = true
-
-[[files]]
-file = "datapacks/unlock-all-recipes.pw.toml"
-hash = "7460ae139c7a0d269ce2c18b09536af0d35013a8ef9aec67000198619986d6b3"
-metafile = true
-
-[[files]]
-file = "datapacks/xp-bottling.pw.toml"
-hash = "2894345148b3f5e055d76c385042aae7915d2aae30c4bdbce24e0668a73d2251"
-metafile = true
-
-[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "1c8c86e005e1474a0cc76966204b0910f61109200561e77d54a1ef280506fe77"
 metafile = true
