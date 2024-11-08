@@ -6,6 +6,11 @@ hash = "1c8c86e005e1474a0cc76966204b0910f61109200561e77d54a1ef280506fe77"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "605ef8bb0533a72740dc3b5346908567dd2ce0539fe8a39e7dbcc7959e700797"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "ac3444154dfbd155eaa377eb00fdab860d7436249f73a9ef29acf7d4fb3c38d7"
 metafile = true
@@ -156,8 +161,18 @@ hash = "fd902023333e13ae8e97a2a85d8732d6e60bc5479274d2308193c469d995fb84"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "64663662bd3ff0462976b3d8f6bc9b2fbef47ad4050e9731e877a552d1b76d84"
+metafile = true
+
+[[files]]
 file = "mods/mc-258859.pw.toml"
 hash = "2ddd132e77845aaff3dd2790a9a74f94d4265956195dffb8cab62b90ebca2bec"
+metafile = true
+
+[[files]]
+file = "mods/mobstacker.pw.toml"
+hash = "48b1b4bb9e2d0d2192652b2d4737c034bb7f344e6361ca69dfaa37c7a1bccb73"
 metafile = true
 
 [[files]]
