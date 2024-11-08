@@ -136,11 +136,6 @@ hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
 metafile = true
 
 [[files]]
-file = "mods/flan.pw.toml"
-hash = "e6426cedf37576cca04fdf5e2173cc0f4471b7180eb8606c284560ce422af8b0"
-metafile = true
-
-[[files]]
 file = "mods/floodgate.pw.toml"
 hash = "6aada8644e3ed4947a39e64315f71202cea11239b1a925a4b863718a0bd16828"
 metafile = true
