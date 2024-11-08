@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "42aa3bb38e9a9077c5f1c6e1be9f000c16ed74f79ea9323235763d33e8965243"
+hash = "41ca6fc9929ae83cd41518ab017081598d73c2ed3c6bcce01f27c00f917caab1"
 metafile = true
 
 [[files]]
