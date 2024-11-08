@@ -97,17 +97,17 @@ metafile = true
 
 [[files]]
 file = "mods/anti-creeper-grief.pw.toml"
-hash = "049fc664e8e041cd00f79ff23e2918058412a4bc9cbd60ce246b473858333341"
+hash = "31e0cfafc76a8e1e4a97e2274af4fccb526a68c0412a4dcbd16deef6d276b15c"
 metafile = true
 
 [[files]]
 file = "mods/anti-enderman-grief.pw.toml"
-hash = "ed8cc019782928bbc2bb02905168aa70067f82274a29947b2640165fb4f2e83b"
+hash = "68296e8cabb9e009b4e98335b9f2ef01ebab68e297c8c8fd3394ae8b3ac3853f"
 metafile = true
 
 [[files]]
 file = "mods/anti-ghast-grief.pw.toml"
-hash = "d269b3cbd245bf5e5a6d14177fd72f562d5e31f6aed0f3eb75dbf5290aa78409"
+hash = "ab020b474dda241ccb3e497844c836a4d5383c0ba17c428ad987f6f52114e0f0"
 metafile = true
 
 [[files]]
@@ -117,17 +117,17 @@ metafile = true
 
 [[files]]
 file = "mods/armor-statues.pw.toml"
-hash = "b344817491ea18811b02ba78098e63092fa062f99114020a6a24300b58488ef6"
+hash = "552fed23ec52f30977934331f32d174f0a394bed9c5ade3ba650d0e79ffa12f7"
 metafile = true
 
 [[files]]
 file = "mods/cauldron-concrete.pw.toml"
-hash = "97570fbd9d325b471f83241db02dba6be32351a5c74a8211139b82ff65fe85aa"
+hash = "d7469109721cc734ebb1ca657a7794830e67dcebd849edf46a2beb8e5ce00068"
 metafile = true
 
 [[files]]
 file = "mods/cauldron-mud.pw.toml"
-hash = "019b7b4d27aa2be91b6c2e7621838240b7585eb1b7d9780f44fbaa817f237e4b"
+hash = "b2b7bc6528112db742aef809c174ba290192923900327bcbf435b1c6907f2f05"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/confetti-creepers.pw.toml"
-hash = "15cc002cd0b29c149d7cf38541b1f23bcbe1fae86b5671778643c92c00484fff"
+hash = "e350790c1f84d43bd8646b769219bee0eed7f748f90f85633dea8248cbcca2eb"
 metafile = true
 
 [[files]]
@@ -182,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/double-shulker-shells.pw.toml"
-hash = "ac4f5322a63a00c82951ab17895cb7ef79c2043205d307cb40705c09d5b6a713"
+hash = "39cdfa476867631e51a403fe0926a80275d69f31916acdf1ee4a8598b388b488"
 metafile = true
 
 [[files]]
 file = "mods/ender-chest-always-drops.pw.toml"
-hash = "8f2c9d0ed7b5aada1b29420e38cfdd0cc619e6611f5ab1589c5dba191cf221b3"
+hash = "575510d487c586057fee3185fdae50681c3465f7ac78611ef3f7e94fc5f095e0"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/kill-empty-boats.pw.toml"
-hash = "5571af07470e590fc2bb39e464b529be858bc15a47162c3a52db67c004b24e64"
+hash = "63adfb844fe397f29db2571b8c8fb2de34bc9b7b128346723575a91a21d506c4"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/silence-mobs.pw.toml"
-hash = "99a888c91298b282c74b44435c4e3b81ba7b990169998d05bc161ed91e8d64f1"
+hash = "fef0278828eb06efb2e269501d913b5695303c83c74447e27eaac3b8bed0665a"
 metafile = true
 
 [[files]]
@@ -332,12 +332,12 @@ metafile = true
 
 [[files]]
 file = "mods/spectator-conduit-power.pw.toml"
-hash = "02b6e49904b2ae5ef6fb197f97dfbef8297c309dbc553478bcb11515a4b7769a"
+hash = "74427030508568f0daf970cef3ae146ed7e774d8b7501c904cf735e902856dce"
 metafile = true
 
 [[files]]
 file = "mods/spectator-night-vision.pw.toml"
-hash = "c85c9a153983242627cfdcd65d34626171d47002800f2255bd0d15d7a570aed0"
+hash = "3162be44fe1cd62518b4bdd0ec49bb740bb72fe69176265e41bd207cb79e9682"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlock-all-recipes.pw.toml"
-hash = "0afef7b1021c3469aae52f5dc2bb41ce1c9ca67094cd5ac774396531c0393d4f"
+hash = "807b2274a3a46bc7a1b05697d377e7958b3e3e99c2369b87d1e84d2158e69866"
 metafile = true
 
 [[files]]
@@ -387,5 +387,5 @@ metafile = true
 
 [[files]]
 file = "mods/xp-bottling.pw.toml"
-hash = "a95dcd4eb4f071568352639ed41a7c655aecccf7bf6fb12de52bf02720694c49"
+hash = "ce9ed97439c2d4c2b020560bdb3dc17d64e3ee4b51e170961c09b204b124c175"
 metafile = true

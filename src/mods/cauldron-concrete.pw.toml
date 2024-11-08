@@ -2,6 +2,6 @@ name = "Cauldron Concrete"
 filename = "cauldron concrete v3.0.2 (MC 1.21-1.21.3).zip"
 
 [download]
-url = "https://github.com/OoLunar/4y-modpack/blob/master/res/cauldron%20concrete%20v3.0.2%20(MC%201.21-1.21.3).zip"
+url = "https://github.com/OoLunar/4y-modpack/raw/refs/heads/master/res/cauldron%20concrete%20v3.0.2%20(MC%201.21-1.21.3).zip"
 hash-format = "sha256"
-hash = "08328bb3d6a0b52ebca8494c19769cbcd2f4c6b1481d1d44d943924ff1a0ff58"
+hash = "32ca792be71da43865a99e5312e26eda61a15d2337b540f7dfab1a88c0558f2e"

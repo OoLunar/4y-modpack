@@ -2,6 +2,6 @@ name = "Anti-Ghast Grief"
 filename = "anti ghast grief v1.1.9 (MC 1.21-1.21.3).zip"
 
 [download]
-url = "https://github.com/OoLunar/4y-modpack/blob/master/res/anti%20ghast%20grief%20v1.1.9%20(MC%201.21-1.21.3).zip"
+url = "https://github.com/OoLunar/4y-modpack/raw/refs/heads/master/res/anti%20ghast%20grief%20v1.1.9%20(MC%201.21-1.21.3).zip"
 hash-format = "sha256"
-hash = "11d5bd1de857c3363e8ff1b3f98f5f8045c1d0f473c4b0430c0276c5a69af797"
+hash = "06c9f415582d8fd1b3f51532727b2929070c440589453e3573655bdc5d7d1e60"
