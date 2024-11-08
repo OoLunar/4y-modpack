@@ -2,6 +2,6 @@ name = "Confetti Creepers"
 filename = "confetti creepers v2.2.10 (MC 1.21-1.21.3).zip"
 
 [download]
-url = "https://github.com/OoLunar/4y-modpack/blob/master/res/confetti%20creepers%20v2.2.10%20(MC%201.21-1.21.3).zip"
+url = "https://github.com/OoLunar/4y-modpack/raw/refs/heads/master/res/confetti%20creepers%20v2.2.10%20(MC%201.21-1.21.3).zip"
 hash-format = "sha256"
-hash = "137827366ca3e84281aea11376fb885dc2d3069cc47144d1cb2240d700684fa2"
+hash = "4a659aadeb958c9e0639c3fe5e30d1cb20db8281471e4b58dc06594bcb507d69"

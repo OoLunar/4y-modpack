@@ -1,7 +1,0 @@
-name = "Spectator Conduit Power"
-filename = "spectator conduit power v1.1.9 (MC 1.21-1.21.3).zip"
-
-[download]
-url = "https://github.com/OoLunar/4y-modpack/raw/refs/heads/master/res/spectator%20conduit%20power%20v1.1.9%20(MC%201.21-1.21.3).zip"
-hash-format = "sha256"
-hash = "d16ea985425f00484960c833175cd82edbdcb9cc8be0f6750a58490306176c8b"

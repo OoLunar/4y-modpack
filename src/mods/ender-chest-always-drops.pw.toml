@@ -1,7 +1,0 @@
-name = "Ender Chest Always Drops"
-filename = "ender chest always drops v1.0.1 (MC 1.21-1.21.3).zip"
-
-[download]
-url = "https://github.com/OoLunar/4y-modpack/raw/refs/heads/master/res/ender%20chest%20always%20drops%20v1.0.1%20(MC%201.21-1.21.3).zip"
-hash-format = "sha256"
-hash = "b1fe9c4f96b29b01c439072f57f689283d4f868a38cb70328e32a30b546a9395"
