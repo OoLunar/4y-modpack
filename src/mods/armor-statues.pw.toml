@@ -1,0 +1,7 @@
+name = "Armor Statues"
+filename = "armor statues v2.8.14 (MC 1.21-1.21.3).zip"
+
+[download]
+url = "https://github.com/OoLunar/4y-modpack/blob/master/res/armor%20statues%20v2.8.14%20(MC%201.21-1.21.3).zip"
+hash-format = "sha256"
+hash = "fca7c765a28b2731881d4b98cc4e97e0076ac6c45dfbc1a4febaea37c2912850"

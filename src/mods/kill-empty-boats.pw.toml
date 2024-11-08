@@ -1,0 +1,7 @@
+name = "Kill Empty Boats"
+filename = "kill empty boats v1.1.10 (MC 1.21-1.21.3).zip"
+
+[download]
+url = "https://github.com/OoLunar/4y-modpack/blob/master/res/kill%20empty%20boats%20v1.1.10%20(MC%201.21-1.21.3).zip"
+hash-format = "sha256"
+hash = "c3a9d8dc81240131d90bd4572ec9ddd345a741ef0133b917a3f43fb469cff62d"

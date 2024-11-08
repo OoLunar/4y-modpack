@@ -1,0 +1,7 @@
+name = "Cauldron Mud"
+filename = "cauldron mud v1.0.2 (MC 1.21-1.21.3).zip"
+
+[download]
+url = "https://github.com/OoLunar/4y-modpack/blob/master/res/cauldron%20mud%20v1.0.2%20(MC%201.21-1.21.3).zip"
+hash-format = "sha256"
+hash = "f97121ab31bb52b80751b50a377fde565643a7a9ee1d6e5813b7e8d4690f92c4"
