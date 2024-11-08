@@ -341,11 +341,6 @@ hash = "d4b0cf061e4ff370e5bd22d395a437af7cea6cb09f71cc4fbf9337dc5432220a"
 metafile = true
 
 [[files]]
-file = "mods/tt20.pw.toml"
-hash = "41ca6fc9929ae83cd41518ab017081598d73c2ed3c6bcce01f27c00f917caab1"
-metafile = true
-
-[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "a812b28139677f41b0e351bffa766dca187902d326c2921ebd237ea19075400f"
 metafile = true
