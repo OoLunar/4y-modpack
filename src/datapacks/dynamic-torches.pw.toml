@@ -1,13 +1,13 @@
 name = "Dynamic Lights"
-filename = "Dynamic Lights v5.1 1.20.5 - 1.21.3.zip"
+filename = "dynamic-torches-5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AK1n0IqM/versions/86KAGjyk/Dynamic%20Lights%20v5.1%201.20.5%20-%201.21.3.zip"
+url = "https://cdn.modrinth.com/data/AK1n0IqM/versions/EP4Vd474/dynamic-torches-5.1.jar"
 hash-format = "sha1"
-hash = "64c0a7484b7a227baa427ac1f575eabf3547e565"
+hash = "157c67060567cecd0c0087741a804fa96bdb551d"
 
 [update]
 [update.modrinth]
 mod-id = "AK1n0IqM"
-version = "86KAGjyk"
+version = "EP4Vd474"

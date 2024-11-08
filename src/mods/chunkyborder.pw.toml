@@ -1,13 +1,13 @@
 name = "Chunky Border"
-filename = "ChunkyBorder-Fabric-1.2.23.jar"
+filename = "ChunkyBorder-1.2.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s86X568j/versions/W3ecXp4B/ChunkyBorder-Fabric-1.2.23.jar"
+url = "https://cdn.modrinth.com/data/s86X568j/versions/uT1cdd3k/ChunkyBorder-1.2.18.jar"
 hash-format = "sha1"
-hash = "1c3ecee5dd1f46d0280a2e4be074fe2a7179c37b"
+hash = "052b14bb201ee9c192afb7b29a281ab8c46f58f4"
 
 [update]
 [update.modrinth]
 mod-id = "s86X568j"
-version = "W3ecXp4B"
+version = "uT1cdd3k"

@@ -1,13 +1,13 @@
 name = "Health Indicator"
-filename = "player health indicator 1.21 v4.zip"
+filename = "health-indicator-4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hxaUKE37/versions/J4OLXp9O/player%20health%20indicator%201.21%20v4.zip"
+url = "https://cdn.modrinth.com/data/hxaUKE37/versions/3tWywoHS/health-indicator-4.jar"
 hash-format = "sha1"
-hash = "25a284990f5d95ee6d05dd9a07a06995ed5d769a"
+hash = "b1bafb42f2e52e8d7b29f504f0052657f0bb66ea"
 
 [update]
 [update.modrinth]
 mod-id = "hxaUKE37"
-version = "J4OLXp9O"
+version = "3tWywoHS"

@@ -1,13 +1,13 @@
 name = "Refined Advancements"
-filename = "refined_advancements-v1.0.4b.zip"
+filename = "refined-advancements-1.0.4a.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/60PfR426/versions/kUmDnKM4/refined_advancements-v1.0.4b.zip"
+url = "https://cdn.modrinth.com/data/60PfR426/versions/lvoz36w2/refined-advancements-1.0.4a.jar"
 hash-format = "sha1"
-hash = "19a07d01e2db127a180fa6014ac6080259940b81"
+hash = "e0fc9abd7eed636e20e0cec3f4c307e0435e9254"
 
 [update]
 [update.modrinth]
 mod-id = "60PfR426"
-version = "kUmDnKM4"
+version = "lvoz36w2"

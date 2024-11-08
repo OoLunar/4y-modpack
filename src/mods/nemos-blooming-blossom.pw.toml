@@ -1,13 +1,13 @@
 name = "Nemo's Blooming Blossom"
-filename = "nemos-blooming-blossom-1.3-1.21.3.jar"
+filename = "nemos-blooming-blossom-1.3-1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/k9WBR3d6/versions/TYzV6QNS/nemos-blooming-blossom-1.3-1.21.3.jar"
+url = "https://cdn.modrinth.com/data/k9WBR3d6/versions/ATWWH492/nemos-blooming-blossom-1.3-1.21.1.jar"
 hash-format = "sha1"
-hash = "0a3c2296ef457a41c44ee39206bb08dd6e87ef8a"
+hash = "840665070dc8d9b26621c808d49952887491851d"
 
 [update]
 [update.modrinth]
 mod-id = "k9WBR3d6"
-version = "TYzV6QNS"
+version = "ATWWH492"
