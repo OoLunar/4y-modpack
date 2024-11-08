@@ -1,2 +1,3 @@
 # Checkout and commit as crlf
-* text=crlf eol=crlf
+* text eol=crlf
+* text eol=lf
