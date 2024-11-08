@@ -91,11 +91,6 @@ hash = "61527e2f37ef0edb8e91414c10d23b59dc3e6e5927801d1f9d4d4c3deeb35a44"
 metafile = true
 
 [[files]]
-file = "mods/chest-logs.pw.toml"
-hash = "ebfd6934bb082a2bc00f3c7c9cf547647554104b23ce7beafb2c584c4b9593ee"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -253,11 +248,6 @@ metafile = true
 [[files]]
 file = "mods/rabbit-pathfinding-fix.pw.toml"
 hash = "e320c4300282b982d4594200b631306e8e13be9a88fa8b36b4c62b498af3c574"
-metafile = true
-
-[[files]]
-file = "mods/railoptimization.pw.toml"
-hash = "17348559d0deb79189d92e2cd8d4090cd80cdb51a48a86b7049936cd5e81327d"
 metafile = true
 
 [[files]]
