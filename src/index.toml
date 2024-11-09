@@ -6,6 +6,11 @@ hash = "1c8c86e005e1474a0cc76966204b0910f61109200561e77d54a1ef280506fe77"
 metafile = true
 
 [[files]]
+file = "mods/afkplus.pw.toml"
+hash = "f6ae852205e5da585df53616554b4fb169969209bccb78b3d66a48779e2e4a78"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "605ef8bb0533a72740dc3b5346908567dd2ce0539fe8a39e7dbcc7959e700797"
 metafile = true
@@ -216,6 +221,11 @@ hash = "23ec3f85d7041b1f343b1e9ae34352eddcd8677a025e4d1f247a0d1bab9f012e"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
+metafile = true
+
+[[files]]
 file = "mods/player-pronouns.pw.toml"
 hash = "419d8d3c7c4bb9485d69b107ec3e0858bb4d2137c7268ae4edd6490deacca5f4"
 metafile = true
@@ -261,11 +271,6 @@ hash = "488de4e605e34cecbc51f466a6b1abf02ccc8485f59beeecca2e6bbf805fad57"
 metafile = true
 
 [[files]]
-file = "mods/sessility.pw.toml"
-hash = "152da05a4418fa42efd27419ad5a2e4c95ec036d11b88f451d73c6704230c522"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "11d49c7873f93ef76006572df8c2bd929683fc03dd2da59531872b15b6a5d93b"
 metafile = true
@@ -298,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "7a6a28c769f83459b44ec908f01a479c4c22d932b06c9e7cf38aa664270ac861"
-metafile = true
-
-[[files]]
-file = "mods/towns-and-towers.pw.toml"
-hash = "519c532586879c46063bf32b271c1d0608af04a204eea0d0ba1634f9d4bc8df9"
 metafile = true
 
 [[files]]
