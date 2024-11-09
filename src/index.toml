@@ -91,6 +91,11 @@ hash = "8b8047ba77a3a2f60df74da5659a8c73d68856f915573a056d4b3901943da490"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
 metafile = true
